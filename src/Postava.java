@@ -24,7 +24,7 @@ public class Postava {
     }
 
     public void setJmeno(String jmeno) {
-        this.jmeno = jmeno;
+        this.jmeno  = jmeno;
     }
 
     public String getRasa() {

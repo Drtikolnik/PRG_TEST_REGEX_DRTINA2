@@ -72,7 +72,7 @@ void main() {
 
 
 
-            //výpis, jestli je postava validní  nebo ne
+            //výpis, jestli je postava validní nebo ne
             if(chybny.isEmpty()){
                 System.out.println("Žádost postavy " +o.getJmeno()+ " je validní");
                 validniPostavy.add(o);

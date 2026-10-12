@@ -8,7 +8,7 @@ public class ValidacePostav {
 
 
 
-//ulozeni paternu
+//ulozeni  paternu
     private static final Pattern jmenoR = Pattern.compile("[A-Z]{1}[a-z]+"); //^\\p{Lu}\\p{Ll}$"
     private static final Pattern rasaR = Pattern.compile("(Elf|Trpaslík|Člověk|Ork|Hobit)");
     private static final Pattern datumR = Pattern.compile("(0[1-9]|[12]\\d|3[01])\\.(0[1-9]|1[0-2])\\.\\d{4}");
